@@ -15,6 +15,7 @@ This assignment completes our movie chatbot system by implementing action functi
 ## Reflection Questions
 
 1. What are some key programming concepts or techniques that you learned while completing this assignment?
+Some key programming concepts I learned was the functions and overall flow to execute my code. Another technique I learned which is important is problem decomposition, which helps me further plan out the code. 
 
 
 
