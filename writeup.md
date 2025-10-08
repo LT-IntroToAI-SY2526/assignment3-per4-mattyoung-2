@@ -15,12 +15,15 @@ This assignment completes our movie chatbot system by implementing action functi
 ## Reflection Questions
 
 1. What are some key programming concepts or techniques that you learned while completing this assignment?
-Some key programming concepts I learned was the functions and overall flow to execute my code. Another technique I learned which is important is problem decomposition, which helps me further plan out the code. 
+Some key programming concepts I learned was the functions and overall flow to execute my code. Another technique I learned which is important is problem decomposition, which helps me further plan out the code and break it down into smaller pieces to find a solution. 
 
 
 
 2. How does the overall movie chatbot system work? Explain the flow from when a user types a query to when they receive an answer.
+It typically helps users find movie related information and when a user types a query they recieve an answer. First the user input types a query, the code takes it and processes it and generates a response based on what the user asks for. The chat bot assits you and gives you the accurate information based off of the code. 
+
 
 
 
 3. What are some real-world applications where this type of pattern-matching chatbot system could be useful? How might you extend or improve this system for practical use?
+This can be applied far beyondthen just movie chat bots. This can be used in the real world for example, with custmer support bots which you may find in the industry while you are shopping online. If you add different context management, the chatbots will be way more useful and would be able to assist in all different kinds of aspects. 
